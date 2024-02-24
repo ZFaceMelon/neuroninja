@@ -39,9 +39,9 @@ export default function Home() {
                         Aiming Test
                     </a>
                 </Link>
-                <Link href="/memory" legacyBehavior>
+                <Link href="/typing" legacyBehavior>
                     <a className="bg-green-500 hover:bg-green-700 text-white font-bold py-4 px-8 rounded play-button" style={{ marginRight: '25px' }}>
-                        Memory Test
+                        Typing Test
                     </a>
                 </Link>
             </div>
